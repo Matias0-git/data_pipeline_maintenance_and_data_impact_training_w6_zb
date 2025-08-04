@@ -1,4 +1,4 @@
-# Week 5 Data Pipeline Maintenance Plan
+# Week 6 Data Pipeline Maintenance Plan
 
 ### Objective:
 To establish clear ownership, an equitable on-call schedule, and initial run book considerations for five critical data pipelines covering Profit, Growth, and Engagement, specifically focusing on investor-reported metrics.
