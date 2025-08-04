@@ -1,7 +1,7 @@
-# Week 7: Zach bootcamp - Data Pipeline Maintenance
-With this fifth publication I want to showcase what we did on week 7 of the zach bootcamp. I am going to cover the concepts that he taught us and the hands-on labs.
+# Week 6: Zach bootcamp - Data Pipeline Maintenance
+With this fifth publication I want to showcase what we did on week 6 of the zach bootcamp. I am going to cover the concepts that he taught us and the hands-on labs.
 
-First of all, for the concepts that were introduced in week 7 are:
+First of all, for the concepts that were introduced in week 6 are:
 
 Day 1
 - How to do a good data migration?
@@ -44,11 +44,11 @@ Day 2
 - Data migration models
 - The importance of knowing your users (upstream and downstream owners)
 
-# Book suggestion to complete the assignments of week 7
+# Book suggestion to complete the assignments of week 6
 For this particular case I am going to suggest the following book:
 - Data engineering best practices: architect robust and cost-effective data solutions in the cloud era from Richard J. Schiller
 
-# Assignments of week 7: [Assignment on zach's github](https://github.com/DataExpert-io/data-engineer-handbook/blob/main/bootcamp/materials/6-data-pipeline-maintenance/homework/homework.md)
+# Assignments of week 6: [Assignment on zach's github](https://github.com/DataExpert-io/data-engineer-handbook/blob/main/bootcamp/materials/6-data-pipeline-maintenance/homework/homework.md)
 
 I built a document which is taylor to manage 5 data pipelines, outlining their ownership, an on-call schedule including holidays, and potential failure points for investor-facing runbooks.
 
